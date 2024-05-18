@@ -14,7 +14,10 @@ Just a guy getting into the weeds of software development.
 
 ### 🌱 Something I'm learning
 
-<img align="left" alt="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png?size=48" />
+<div>
+<img align="left" alt="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png?size=48" />  
+</div><br><br>
+
 
 ### Projects
 
