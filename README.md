@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Austin
 
-Just a guy getting into the weeds of software development. 
+I've been an engineer for sometime now. For work, I'm mostly a product engineer, but I've always been interested in developer tooling. Nowadays, I'm just trying to get a grasp on the chaos of the JS ecosystem 
 
 ### 🧑🏻‍🏫 Things I know
 
