@@ -17,6 +17,7 @@ Just a guy getting into the weeds of software development.
 <img align="left" alt="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png?size=48" />
 
 ### Projects
+
 [Memo](https://memo-nextjs-orcin.vercel.app/memo) - small app built with NextJS, Supabase, and deployed on Vercel. You can view the repo [here](https://github.com/ausyau/memo-nextjs)
 
 <!--
