@@ -19,9 +19,6 @@ I've been an engineer for sometime now. For work, I'm mostly a product engineer,
 </div><br><br>
 
 
-### Projects
-
-[Memo](https://memo-nextjs-orcin.vercel.app/memo) - small app built with NextJS, Supabase, and deployed on Vercel. You can view the repo [here](https://github.com/ausyau/memo-nextjs)
 
 <!--
 **ausyau/ausyau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
